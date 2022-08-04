@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://bcs.mit.edu'>Graduate Student at MIT</a>. Reverse-Engineering the Brain and Deep Neural Networks
+subtitle: <a href='https://bcs.mit.edu'>Computational Neuroscience Graduate Student at MIT</a>. Reverse-Engineering the Brain and Deep Neural Networks
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 As our brains are the only proof that flexible intelligence can exist, I seek to bridge the gaps 
 between nervous systems and deep learning by developing a quantitative understanding of how the brain 
-computes. I seek to design and use methods from computational neuroscience, dynamical systems theory, and representation learning to analyze the computations performed by both biological and artificial neural networks. When used as a scientific model, deep neural networks can be used to study brain function in ways beyond contemporary experimental techniques. Through these approaches, I want to design brain-inspired artificial intelligence systems, build brain-machine interfaces, and identify the etiology of psychiatric disorders.
+computes. I seek to design and use methods from statistics, dynamical systems theory, and representation learning to analyze the computations performed by both biological and artificial neural networks. When used as a scientific model, deep neural networks can be used to study brain function in ways beyond contemporary experimental techniques. Through these approaches, I want to design brain-inspired artificial intelligence systems, build brain-machine interfaces, and identify the etiology of psychiatric disorders.
 
 I've worked in medicine (as an EMT), experimental neuroscience, computational neuroscience, and artificial intelligence (in industry). 
 I primarily use Python and its data science / ML ecosystem nowadays, but worked extensively with R in undergraduate. I also use Matlab and Julia, on occasion.
