@@ -17,15 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 As our brains are the only proof that flexible intelligence can exist, I seek to bridge the gaps 
 between nervous systems and deep learning by developing a quantitative understanding of how the brain 
-computes. For example, I’m interested in designing learning rules and architectures for deep networks based on the nervous system’s structure. 
-Given the (abstract) similarities in biological and artificial neural data due to their hierarchical, parallel, nonlinear processing, 
-a neuroscientific analysis of deep neural networks could provide insight into their function. This translates 
-back to neuroscience when they are used as a scientific model. To that end, I seek to design novel 
-quantitative tools from machine learning, dynamical systems theory and representation learning to analyze the computations 
-performed by both biological and artificial neural networks. 
+computes. I seek to design and use methods from computational neuroscience, dynamical systems theory, and representation learning to analyze the computations performed by both biological and artificial neural networks. When used as a scientific model, deep neural networks can be used to study brain function in ways beyond contemporary experimental techniques. Through these approaches, I want to design brain-inspired artificial intelligence systems, build brain-machine interfaces, and identify the etiology of psychiatric disorders.
 
-I've worked in medicine (as an EMT), experimental neuroscience, computational neuroscience, and artificial intelligence (in industry). I envision utilizing computation beyond basic neuroscience to build brain-machine interfaces, develop novel brain-inspired AI algorithms, and identify the etiology of psychiatric disorders.
-
+I've worked in medicine (as an EMT), experimental neuroscience, computational neuroscience, and artificial intelligence (in industry). 
 I primarily use Python and its data science / ML ecosystem nowadays, but worked extensively with R in undergraduate. I also use Matlab and Julia, on occasion.
 
 Yale Symposia was kind enough to [profile me](https://www.yalesymposia.com/neuroscience-lab-profile/2021/8/24/exploration-a-trait-shared-by-both-music-and-research) and my undergraduate journey in neuroscience research. 
