@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Mitchell
 middle_name:
-last_name: Ostrow
+last_name: Ostrow?
 email: ostrow@mit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -71,7 +71,7 @@ github_username: mitchellostrow # your GitHub user name
 gitlab_username:  # your GitLab user name
 twitter_username:  # your Twitter handle
 linkedin_username: mitchellostrow # your LinkedIn user name
-scholar_userid: https://scholar.google.com/citations?user=WRIrZ2cAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: WRIrZ2cAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -84,7 +84,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: \[lastname\]@mit.edu
+contact_note: > #\[lastname\]@mit.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -100,9 +100,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: > # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: Assorted topics on neuroscience, machine learning, intelligence, philosophy of science...
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -110,7 +110,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
