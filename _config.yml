@@ -82,7 +82,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: > #\[lastname\]@mit.edu
+contact_note: #\[lastname\]@mit.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -102,6 +102,7 @@ blog_name: > # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Assorted topics on neuroscience, machine learning, intelligence, philosophy of science...
 permalink: /blog/:year/:title/
+nav : false
 
 # Pagination
 pagination:
@@ -280,9 +281,9 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
+enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
