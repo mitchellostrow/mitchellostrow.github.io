@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://bcs.mit.edu'>Computational Neuroscience Graduate Student at MIT</a>. Reverse-Engineering the Brain and Deep Neural Networks
+subtitle: <a href='https://bcs.mit.edu'>Computational Neuroscience PhD Student at MIT</a>. Reverse-Engineering the Brain and Deep Neural Networks
 
 profile:
   align: right
