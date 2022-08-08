@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mitchellostrow
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mitchellostrow/mitchellostrow.github.io
+  - mitchellostrow/NM2020
