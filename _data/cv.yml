@@ -18,6 +18,9 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Graduate Student, Fiete Lab
+      institution: MIT 
+      year: 2023 - Present
     - title: Postgraduate Research Associate, Seo Lab
       institution: Yale University
       year: Jan 2022-May 2022
@@ -40,7 +43,7 @@
   contents:
     - title: AI Summer School Tutor
       institution: Inspirit AI
-      year: July 2022
+      year: Summer 2022 and 2023
     - title: Teaching Assistant
       institution: Yale Brain Bee
       year: April 2021
