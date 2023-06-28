@@ -6,7 +6,7 @@ description: > #publications by categories
 sections:
   - bibquery: "@article"
     text: "Papers"
-  - bibquery: "@Talk"
+  - bibquery: "@misc"
     text: "Talks"
   - bibquery: "@inproceedings"
     text: "Posters"
