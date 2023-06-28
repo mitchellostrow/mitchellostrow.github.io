@@ -5,7 +5,7 @@ title: Publications
 description: > #publications by categories
 sections:
   - bibquery: "@article"
-    text: "Publications"
+    text: "Papers"
   - bibquery: "@Talk"
     text: "Talks"
   - bibquery: "@inproceedings"
