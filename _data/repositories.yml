@@ -2,5 +2,6 @@ github_users:
   - mitchellostrow
 
 github_repos:
-  - mitchellostrow/mitchellostrow.github.io
-  - mitchellostrow/NM2020
+  - mitchellostrow/MPRNNPublic
+  - mitchellostrow/DSA
+
