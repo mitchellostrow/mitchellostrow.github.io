@@ -2,6 +2,6 @@ github_users:
   - mitchellostrow
 
 github_repos:
-  - mitchellostrow/MPRNNPublic
   - mitchellostrow/DSA
+  # - mitchellostrow/MPRNNPublic
 

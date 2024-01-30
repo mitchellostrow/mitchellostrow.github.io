@@ -41,6 +41,10 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - title: >
+        Teaching Assistant, MIT 9.49 Neural Circuits for Cognition
+      institution: MIT
+      year: Fall 2023
     - title: AI Summer School Tutor
       institution: Inspirit AI
       year: Summer 2022 and 2023
@@ -50,7 +54,7 @@
     - title: >
         Teaching Assistant, S&DS 312 : Linear Models
       institution: Yale University
-      year: Aug - Dec 2020
+      year: Fall 2020
     - title: Tutor, Intro to Python
       institution: The Coding School
       year: May - Nov 2020
@@ -66,6 +70,9 @@
 - title: Leadership 
   type: time_table
   contents: 
+    - title: Member
+      institution: MIT BCS Resources for Easing Friction and Stress
+      year: Aug 2023 - Present
     - title: Co-Founder and Co-Organizer
       institution: Applied Philosophy in Neuroscience Journal Club 
       year: June - Dec 2021
