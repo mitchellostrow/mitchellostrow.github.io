@@ -3,5 +3,7 @@ github_users:
 
 github_repos:
   - mitchellostrow/DSA
-  # - mitchellostrow/MPRNNPublic
+  - mitchellostrow/MinimalSequenceModels
+  - mitchellostrow/nn_delay_embeddings
+  - mitchellostrow/MPRNNPublic
 
