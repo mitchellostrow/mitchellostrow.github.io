@@ -21,7 +21,7 @@ computes. I design and use methods from statistics, dynamical systems theory, an
 I'm fortunate to have been supported at MIT by the Computationally-Enabled Integrative Neuroscience Fellowship and the Praecis Presidential Fellowship. I'm currently supported by the NSF GRFP. 
 <!-- I primarily use Python and its data science / ML ecosystem nowadays, but worked extensively with R in undergraduate. I also use Matlab and Julia, on occasion. -->
 
-Yale Symposia was kind enough to [profile me](https://www.yalesymposia.com/neuroscience-lab-profile/2021/8/24/exploration-a-trait-shared-by-both-music-and-research) and my undergraduate journey in neuroscience research. 
+<!-- Yale Symposia was kind enough to [profile me](https://www.yalesymposia.com/neuroscience-lab-profile/2021/8/24/exploration-a-trait-shared-by-both-music-and-research) and my undergraduate journey in neuroscience research.  -->
 
 [Simply Neuroscience](https://simplyneuroscience.org/) interviewed me on their podcast, The Synapse, about doing neuroscience research at Yale. Link [here](https://anchor.fm/the-synapse/episodes/The-College-Neuro-Network-Yale-University-from-an-Undergraduate-Student-ehsf7e).
 
@@ -29,4 +29,3 @@ Yale Symposia was kind enough to [profile me](https://www.yalesymposia.com/neuro
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
