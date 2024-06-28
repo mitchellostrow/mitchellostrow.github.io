@@ -19,7 +19,7 @@
   type: time_table
   contents:
     - title: Research Scientist Intern
-      institution: IBM Research AI, Cambridge, MA
+      institution: Meta Reality Labs, NYC
       year: June 2024 - September 2024
     - title: Graduate Student, Fiete Lab
       institution: MIT 
@@ -85,19 +85,3 @@
     - title: Emergency Medical Technician
       institution: Seymour EMS
       year: Sept - Dec 2019
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
