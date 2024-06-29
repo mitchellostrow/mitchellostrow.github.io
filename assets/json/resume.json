@@ -1,4 +1,4 @@
-#if there's an error here it will resort to the cv.yml page, which is preferred
+{
   "basics": {
     "name": "Mitchell Ostrow",
     "label": "PhD Student at MIT",
@@ -15,54 +15,33 @@
       "name": "Meta Reality Labs",
       "position": "Research Scientist Intern",
       "startDate": "2024-06-24",
-      "endDate": "2024-09-13",
-      "summary": "Research Scientist on the Neuromotor Interfaces team",
-      "highlights": ["Machine Leaerning", "BCI"]
+      "endDate": "2024-09-13"
     },
     {
       "name": "MIT",
       "position": "Graduate Student, Fiete Lab",
       "url": "https://fietelab.mit.edu",
       "startDate": "2023-01-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": ["Highlight 1", "Highlight 2"]
+      "endDate": "Present"
     },
     {
       "name": "Yale University",
-      "position": "Postgraduate Research Associate, Seo Lab",
-      "url": "https://example.com",
-      "startDate": "2022-01-01",
-      "endDate": "2022-05-01",
-      "summary": "Summary of your role and responsibilities.",
-      "highlights": ["Highlight 1", "Highlight 2"]
+      "position": "Postgraduate Research Associate and Undergraduate Researcher, Seo Lab",
+      "startDate": "2019-07-01",
+      "endDate": "2022-05-01"
     },
     {
       "name": "Lockheed Martin AI Center, Shelton, CT",
       "position": "Artificial Intelligence Research Engineering Intern",
-      "url": "https://example.com",
       "startDate": "2021-06-01",
-      "endDate": "2021-12-01",
-      "summary": "Summary of your role and responsibilities.",
-      "highlights": ["Highlight 1", "Highlight 2"]
-    },
-    {
-      "name": "Yale University",
-      "position": "Undergraduate Research Assistant, Seo Lab",
-      "url": "https://example.com",
-      "startDate": "2019-08-01",
-      "endDate": "2021-12-01",
-      "summary": "Full-time during May - Dec 2020 (Fall 2020 was a gap semester).",
-      "highlights": ["Highlight 1", "Highlight 2"]
+      "endDate": "2021-12-01"
     },
     {
       "name": "Yale University",
       "position": "Undergraduate Research Assistant, Pittenger Lab",
-      "url": "https://example.com",
       "startDate": "2019-01-01",
       "endDate": "2019-08-01",
-      "summary": "Full-time during June - Aug 2019.",
-      "highlights": ["Highlight 1", "Highlight 2"]
+      "summary": "Full-time during June - Aug 2019."
     }
   ],
   "volunteer": [],
@@ -70,22 +49,19 @@
     {
       "institution": "Massachusetts Institute of Technology, Cambridge, MA",
       "location": "Cambridge, MA",
-      "url": "https://example.com",
+      "url": "https://bcs.mit.edu",
       "area": "Brain and Cognitive Sciences",
       "studyType": "PhD",
       "startDate": "2022-01-01",
-      "endDate": "Present",
-      "score": "",
-      "courses": []
+      "endDate": "Present"
     },
     {
       "institution": "Yale University, New Haven, CT",
       "location": "New Haven, CT",
-      "url": "https://example.com",
       "area": "Neuroscience, Statistics & Data Science",
       "studyType": "BS",
       "startDate": "2017-01-01",
-      "endDate": "2021-01-01",
+      "endDate": "2021-12-16",
       "score": "",
       "courses": [
         "S&DS Thesis: Neural Mechanisms of Theory of Mind in Deep Reinforcement Learning",
@@ -93,7 +69,7 @@
       ]
     }
   ],
-  "awards": ["NSF GRFP", "Magna Cum Laude"],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
