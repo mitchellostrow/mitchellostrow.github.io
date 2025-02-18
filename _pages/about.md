@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://bcs.mit.edu'>Computational Neuroscience PhD Student at MIT</a>. Reverse-Engineering the Brain and Deep Neural Networks
+subtitle: <a href='https://bcs.mit.edu'>Computational Neuroscience PhD Student at MIT</a>. 
 
 profile:
   align: right
@@ -15,8 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I seek to bridge the gaps between nervous systems and deep learning by developing a quantitative understanding of how + what the brain 
-computes. I design and use methods from statistics, dynamical systems theory, and representation learning to analyze the computations performed by both biological and artificial neural networks. When used as a scientific model, deep neural networks can be used to study brain function in ways beyond contemporary experimental techniques. Through these approaches, I want to design brain-inspired artificial intelligence systems, build brain-machine interfaces, and identify the etiology of psychiatric disorders. I've worked in medicine (as an EMT), experimental neuroscience, computational neuroscience, and artificial intelligence (in industry). 
+I'm a 3rd year PhD student in Ila Fiete's lab at MIT. I'm interested in bridging systems neuroscience, cognitive science, and deep learning through the lens of dynamical systems theory and machine learning. To that end, I design and use quantitative methods to understand computations performed by both biological and artificial neural networks. I've worked in medicine (as an EMT), experimental neuroscience, computational neuroscience, and artificial intelligence (in industry). 
 
 I also work as a freelance editor, especially for college admission essays and graduate school statements of purpose, but I can edit both technical and non-technical pieces more generally. Feel free to reach out to me at \[last-name\] (at) mit.edu if you're interested. 
 
