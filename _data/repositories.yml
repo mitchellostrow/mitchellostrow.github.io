@@ -1,6 +1,8 @@
 github_users:
   - mitchellostrow
 
+repo_description_lines_max: 2
+
 github_repos:
   - mitchellostrow/DSA
   - mitchellostrow/MinimalSequenceModels
