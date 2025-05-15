@@ -30,18 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-image-galleries",
-      
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
-    },{id: "news-graduated-from-yale",
+        },{id: "nav-writing",
+          title: "Writing",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/writing/";
+          },
+        },{id: "news-graduated-from-yale",
           title: 'Graduated from Yale.',
           description: "",
           section: "News",},{id: "news-starting-phd",
