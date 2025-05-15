@@ -2,6 +2,8 @@
 layout: page
 title: Writing
 permalink: /writing/
+nav: true
+nav_order: 5
 ---
 
 Here you can find a collection of my non-primary research writing. 
