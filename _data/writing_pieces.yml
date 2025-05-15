@@ -1,0 +1,8 @@
+- title: "Examining the Viability of Computational Psychiatry"
+  description: "A commentary and review on computational psychiatry circa 2021."
+  pdf_url: /assets/pdf/writing/compsych.pdf # Make sure this path matches where you upload your PDF
+
+- title: "How the human brain creates cognitive maps of related concepts"
+  description: "A commentary on a beautiful paper from my friend Hristos"
+  pdf_url: https://www.nature.com/articles/d41586-024-02433-2
+# Add more entries here for each PDF 
