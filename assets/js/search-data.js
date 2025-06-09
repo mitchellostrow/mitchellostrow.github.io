@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-writing",
-          title: "Writing",
+          title: "writing",
           description: "",
           section: "Navigation",
           handler: () => {
