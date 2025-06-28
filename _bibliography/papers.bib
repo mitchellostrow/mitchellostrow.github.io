@@ -1,5 +1,35 @@
 ---
 ---
+@article{liang2024diffusionmodelslearnfactorize,
+      title={How Diffusion Models Learn to Factorize and Compose}, 
+      author={Qiyao Liang and Ziming Liu and Mitchell Ostrow and Ila Fiete},
+      year={2024},
+      journal = {Neural Information Processing Systems},
+      url={https://arxiv.org/abs/2408.13256}, 
+}
+
+@article{
+schaeffer2024does,
+title={Does Maximizing Neural Regression Scores Teach Us About The Brain?},
+author={Rylan Schaeffer and Mikail Khona and Sarthak Chandra and Mitchell Ostrow and Brando Miranda and Sanmi Koyejo},
+journal={UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models},
+year={2024},
+url={https://openreview.net/forum?id=vbtj05J68r}
+}
+
+
+@article {Versteeg2025.02.07.637062,
+	author = {Versteeg, Christopher and McCart, Jonathan D. and Ostrow, Mitchell and Zoltowski, David M. and Washington, Clayton B. and Driscoll, Laura and Codol, Olivier and Michaels, Jonathan A. and Linderman, Scott W. and Sussillo, David and Pandarinath, Chethan},
+	title = {Computation-through-Dynamics Benchmark: Simulated datasets and quality metrics for dynamical models of neural activity},
+	elocation-id = {2025.02.07.637062},
+	year = {2025},
+	doi = {10.1101/2025.02.07.637062},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {A primary goal of systems neuroscience is to discover how ensembles of neurons transform inputs into goal-directed behavior, a process known as neural computation. A powerful framework for understanding neural computation uses neural dynamics {\textendash} the rules that describe the temporal evolution of neural activity {\textendash} to explain how goal-directed input-output transformations occur. As dynamical rules are not directly observable, we need computational models that can infer neural dynamics from recorded neural activity. We typically validate such models using synthetic datasets with known ground-truth dynamics, but unfortunately existing synthetic datasets don{\textquoteright}t reflect fundamental features of neural computation and are thus poor proxies for neural systems. Further, the field lacks validated metrics for quantifying the accuracy of the dynamics inferred by models. The Computation-through-Dynamics Benchmark (CtDB) fills these critical gaps by providing: 1) synthetic datasets that reflect computational properties of biological neural circuits, 2) interpretable metrics for quantifying model performance, and 3) a standardized pipeline for training and evaluating models with or without known external inputs. In this manuscript, we demonstrate how CtDB can help guide the development, tuning, and troubleshooting of neural dynamics models. In summary, CtDB provides a critical platform for model developers to better understand and characterize neural computation through the lens of dynamics.Competing Interest StatementD.S. and C.P. are employees of Meta Platforms Reality Labs. Meta Platforms Reality Labs did not support this work, nor did it have any role in the study or any competing interests related to it.},
+	URL = {https://www.biorxiv.org/content/early/2025/02/20/2025.02.07.637062},
+	journal = {bioRxiv}
+}
+
 
 @article{delay_embed,
     bibtex_show={true},
@@ -7,9 +37,11 @@
     author={Mitchell Ostrow and Adam Eisen and Ila Fiete},
     year={2024},
     selected = {true},
+    journal = {International Conference on Machine Learning (ICML) workshop on Next Generation Sequence Modeling},
     url = {https://arxiv.org/abs/2406.11993v1},
     abstract = {To generate coherent responses, language models infer unobserved meaning from their input text sequence. One potential explanation for this capability arises from theories of delay embeddings in dynamical systems, which prove that unobserved variables can be recovered from the history of only a handful of observed variables. To test whether language models are effectively constructing delay embeddings, we measure the capacities of sequence models to reconstruct unobserved dynamics. We trained 1-layer transformer decoders and state-space sequence models on next-step prediction from noisy, partially-observed time series data. We found that each sequence layer can learn a viable embedding of the underlying system. However, state-space models have a stronger inductive bias than transformers-in particular, they more effectively reconstruct unobserved information at initialization, leading to more parameter-efficient models and lower error on dynamics tasks. Our work thus forges a novel connection between dynamical systems and deep learning sequence models via delay embedding theory.}
 }
+
 
 
 @article{MPRNN,

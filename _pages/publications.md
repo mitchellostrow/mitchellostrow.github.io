@@ -10,7 +10,7 @@ sections:
     text: "Talks"
   - bibquery: "@inproceedings"
     text: "Posters"
-years: [2023, 2022, 2021]
+years: [2025,2024,2023, 2022, 2021]
 nav: true
 nav_order: 2
 ---
