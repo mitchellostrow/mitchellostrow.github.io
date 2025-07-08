@@ -19,7 +19,7 @@ I'm a 3rd year PhD student at MIT. I'm interested in bridging systems neuroscien
 
 I also work as a freelance editor, especially for college admission essays and graduate school statements of purpose, but I can edit both technical and non-technical pieces more generally. Feel free to reach out to me at \[last-name\] (at) mit.edu if you're interested. 
 
-I'm fortunate to have been supported at MIT by the Computationally-Enabled Integrative Neuroscience Fellowship and the Praecis Presidential Fellowship. I'm currently supported by the NSF GRFP. 
+I'm grateful to have been supported at MIT by the Computationally-Enabled Integrative Neuroscience Fellowship and the Praecis Presidential Fellowship. I'm currently supported by the NSF GRFP. 
 
 
 <!-- Yale Symposia was kind enough to [profile me](https://www.yalesymposia.com/neuroscience-lab-profile/2021/8/24/exploration-a-trait-shared-by-both-music-and-research) and my undergraduate journey in neuroscience research.  -->

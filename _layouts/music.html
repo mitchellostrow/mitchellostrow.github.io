@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/music.css' | relative_url }}">
+
+<div class="music-container">
+  <div class="header">
+    <h1>{{ page.title }}</h1>
+    <button id="shuffle-button" class="btn btn-primary" aria-label="Shuffle albums">
+      <i class="fas fa-random"></i>
+    </button>
+  </div>
+  <div class="album-grid">
+    {% for album in site.data.albums %}
+      <div class="album-item" data-spotify-url="{{ album.spotify_url }}">
+        <a href="{{ album.spotify_url }}" target="_blank" rel="noopener noreferrer">
+          <img src="" alt="{{ album.title }} cover" class="album-cover">
+        </a>
+        <div class="album-info">
+          <h3>{{ album.title }}</h3>
+          <p>{{ album.artist }}</p>
+          <div class="album-details">
+            <p>{{ album.review }}</p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Album Modal -->
+<div id="album-modal" class="modal">
+  <div class="modal-content">
+    <span class="close-button">&times;</span>
+    <div class="modal-body">
+      <img id="modal-album-cover" src="" alt="Album cover">
+      <div class="modal-album-info">
+        <h3 id="modal-album-title"></h3>
+        <p id="modal-album-artist"></p>
+        <p id="modal-album-review"></p>
+        <a id="modal-spotify-link" href="#" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Listen on Spotify</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const albumsData = {{ site.data.albums | jsonify }};
+</script>
+<script src="{{ '/assets/js/music.js' | relative_url }}"></script> 
