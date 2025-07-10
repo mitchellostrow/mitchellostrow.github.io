@@ -5,7 +5,12 @@ layout: default
 
 <div class="music-container">
   <div class="header">
-    <h1>{{ page.title }}</h1>
+    <div class="title-block">
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <p class="subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
     <button id="shuffle-button" class="btn btn-primary" aria-label="Shuffle albums">
       <i class="fas fa-random"></i>
     </button>
