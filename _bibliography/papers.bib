@@ -8,7 +8,8 @@
       preview = {jacobian.png},
       journal = {arxiv},
       selected = {true},
-      url={https://www.biorxiv.org/content/10.1101/2025.07.01.637062v1}, 
+      url={https://www.biorxiv.org/content/10.1101/2025.07.01.637062v1},
+      topic = {ML methods for neural data analysis} 
 }
 
 @article{liang2024diffusionmodelslearnfactorize,
@@ -19,6 +20,7 @@
       journal = {Neural Information Processing Systems},
       selected = {true},
       url={https://arxiv.org/abs/2408.13256}, 
+      topic = {Understanding neural systems}
 }
 
 @article{
@@ -27,7 +29,8 @@ title={Does Maximizing Neural Regression Scores Teach Us About The Brain?},
 author={Rylan Schaeffer and Mikail Khona and Sarthak Chandra and Mitchell Ostrow and Brando Miranda and Sanmi Koyejo},
 journal={UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models},
 year={2024},
-url={https://openreview.net/forum?id=vbtj05J68r}
+url={https://openreview.net/forum?id=vbtj05J68r},
+topic = {Understanding neural systems}
 }
 
 
@@ -40,7 +43,8 @@ url={https://openreview.net/forum?id=vbtj05J68r}
 	publisher = {Cold Spring Harbor Laboratory},
 	abstract = {A primary goal of systems neuroscience is to discover how ensembles of neurons transform inputs into goal-directed behavior, a process known as neural computation. A powerful framework for understanding neural computation uses neural dynamics {\textendash} the rules that describe the temporal evolution of neural activity {\textendash} to explain how goal-directed input-output transformations occur. As dynamical rules are not directly observable, we need computational models that can infer neural dynamics from recorded neural activity. We typically validate such models using synthetic datasets with known ground-truth dynamics, but unfortunately existing synthetic datasets don{\textquoteright}t reflect fundamental features of neural computation and are thus poor proxies for neural systems. Further, the field lacks validated metrics for quantifying the accuracy of the dynamics inferred by models. The Computation-through-Dynamics Benchmark (CtDB) fills these critical gaps by providing: 1) synthetic datasets that reflect computational properties of biological neural circuits, 2) interpretable metrics for quantifying model performance, and 3) a standardized pipeline for training and evaluating models with or without known external inputs. In this manuscript, we demonstrate how CtDB can help guide the development, tuning, and troubleshooting of neural dynamics models. In summary, CtDB provides a critical platform for model developers to better understand and characterize neural computation through the lens of dynamics.Competing Interest StatementD.S. and C.P. are employees of Meta Platforms Reality Labs. Meta Platforms Reality Labs did not support this work, nor did it have any role in the study or any competing interests related to it.},
 	URL = {https://www.biorxiv.org/content/early/2025/02/20/2025.02.07.637062},
-	journal = {bioRxiv}
+	journal = {bioRxiv},
+  topic = {ML methods for neural data analysis}
 }
 
 
@@ -53,7 +57,8 @@ url={https://openreview.net/forum?id=vbtj05J68r}
     preview = {delayembed.png},
     journal = {International Conference on Machine Learning (ICML) workshop on Next Generation Sequence Modeling},
     url = {https://arxiv.org/abs/2406.11993v1},
-    abstract = {To generate coherent responses, language models infer unobserved meaning from their input text sequence. One potential explanation for this capability arises from theories of delay embeddings in dynamical systems, which prove that unobserved variables can be recovered from the history of only a handful of observed variables. To test whether language models are effectively constructing delay embeddings, we measure the capacities of sequence models to reconstruct unobserved dynamics. We trained 1-layer transformer decoders and state-space sequence models on next-step prediction from noisy, partially-observed time series data. We found that each sequence layer can learn a viable embedding of the underlying system. However, state-space models have a stronger inductive bias than transformers-in particular, they more effectively reconstruct unobserved information at initialization, leading to more parameter-efficient models and lower error on dynamics tasks. Our work thus forges a novel connection between dynamical systems and deep learning sequence models via delay embedding theory.}
+    abstract = {To generate coherent responses, language models infer unobserved meaning from their input text sequence. One potential explanation for this capability arises from theories of delay embeddings in dynamical systems, which prove that unobserved variables can be recovered from the history of only a handful of observed variables. To test whether language models are effectively constructing delay embeddings, we measure the capacities of sequence models to reconstruct unobserved dynamics. We trained 1-layer transformer decoders and state-space sequence models on next-step prediction from noisy, partially-observed time series data. We found that each sequence layer can learn a viable embedding of the underlying system. However, state-space models have a stronger inductive bias than transformers-in particular, they more effectively reconstruct unobserved information at initialization, leading to more parameter-efficient models and lower error on dynamics tasks. Our work thus forges a novel connection between dynamical systems and deep learning sequence models via delay embedding theory.},
+    topic = {Understanding neural systems}
 }
 
 
@@ -94,7 +99,8 @@ url={https://openreview.net/forum?id=vbtj05J68r}
   workshop = {Social Intelligence in Humans and Robots},
   selected = {true},
   preview = {lstm.png},
-  code = {https://github.com/mitchellostrow/mprnnpublic}
+  code = {https://github.com/mitchellostrow/mprnnpublic},
+  topic = {Understanding neural systems}
 }
 
 @article{CompPsychiatry,
@@ -106,7 +112,8 @@ url={https://openreview.net/forum?id=vbtj05J68r}
   url = {https://elischolar.library.yale.edu/yurj/vol2/iss1/35/},
   html = {https://elischolar.library.yale.edu/yurj/vol2/iss1/35/},
   volume = {2},
-  number = {1}
+  number = {1},
+  topic = {Understanding neural systems}
 }
 
 @article{ostrow2023geometry,
@@ -119,8 +126,9 @@ url={https://openreview.net/forum?id=vbtj05J68r}
     preview = {torus.jpeg},
     journal = {Neural Information Processing Systems},
     code = {https://github.com/mitchellostrow/DSA},
-    abstract = {How can we tell whether two neural networks are utilizing the same internal processes for a particular computation? This question is pertinent for multiple subfields of both neuroscience and machine learning, including neuroAI, mechanistic interpretability, and brain-machine interfaces. Standard approaches for comparing neural networks focus on the spatial geometry of latent states. Yet in recurrent networks, computations are implemented at the level of neural dynamics, which do not have a simple one-to-one mapping with geometry. To bridge this gap, we introduce a novel similarity metric that compares two systems at the level of their dynamics. Our method incorporates two components: Using recent advances in data-driven dynamical systems theory, we learn a high-dimensional linear system that accurately captures core features of the original nonlinear dynamics. Next, we compare these linear approximations via a novel extension of Procrustes Analysis that accounts for how vector fields change under orthogonal transformation. Via four case studies, we demonstrate that our method effectively identifies and distinguishes dynamic structure in recurrent neural networks (RNNs), whereas geometric methods fall short. We additionally show that our method can distinguish learning rules in an unsupervised manner. Our method therefore opens the door to novel data-driven analyses of the temporal structure of neural computation, and to more rigorous testing of RNNs as models of the brain.}
-}
+    abstract = {How can we tell whether two neural networks are utilizing the same internal processes for a particular computation? This question is pertinent for multiple subfields of both neuroscience and machine learning, including neuroAI, mechanistic interpretability, and brain-machine interfaces. Standard approaches for comparing neural networks focus on the spatial geometry of latent states. Yet in recurrent networks, computations are implemented at the level of neural dynamics, which do not have a simple one-to-one mapping with geometry. To bridge this gap, we introduce a novel similarity metric that compares two systems at the level of their dynamics. Our method incorporates two components: Using recent advances in data-driven dynamical systems theory, we learn a high-dimensional linear system that accurately captures core features of the original nonlinear dynamics. Next, we compare these linear approximations via a novel extension of Procrustes Analysis that accounts for how vector fields change under orthogonal transformation. Via four case studies, we demonstrate that our method effectively identifies and distinguishes dynamic structure in recurrent neural networks (RNNs), whereas geometric methods fall short. We additionally show that our method can distinguish learning rules in an unsupervised manner. Our method therefore opens the door to novel data-driven analyses of the temporal structure of neural computation, and to more rigorous testing of RNNs as models of the brain.},
+    topic = {ML methods for neural data analysis}
+    }
 
 @inproceedings{explanation,
   title = {Predictive Models are not Enough for Explanation-Seeking Curiosity: A Case Study. },
@@ -128,7 +136,8 @@ url={https://openreview.net/forum?id=vbtj05J68r}
   year = {2023},
   poster = {true},
   preview = {cogsci.jpg},
-  booktitle = {Curiosity, Creativity and Complexity Conference}
+  booktitle = {Curiosity, Creativity and Complexity Conference},
+  topic = {Understanding neural systems}
 }
 
 @inproceedings{MPRNNposter,
@@ -137,7 +146,8 @@ url={https://openreview.net/forum?id=vbtj05J68r}
   year = {2022},
   poster = {true},
   booktitle = {Computational and Systems Neuroscience (COSYNE)},
-  preview = {lstm.png}
+  preview = {lstm.png},
+  topic = {Understanding neural systems}
 }
 @inproceedings{Michi,
   title = {Network Dimensions Alter Reversal Learning Strategies},
@@ -145,7 +155,8 @@ url={https://openreview.net/forum?id=vbtj05J68r}
   year = {2023},
   poster = {true},
   booktitle = {Computational and Systems Neuroscience (COSYNE)},
-  preview = {lstm.png}
+  preview = {lstm.png},
+  topic = {Understanding neural systems}
 }
 
 @inproceedings{CCN2023,
@@ -155,6 +166,7 @@ url={https://openreview.net/forum?id=vbtj05J68r}
   poster = {true},
   preview = {torus.jpeg},
   booktitle = {Cognitive Computational Neuroscience (CCN), selected as an oral presentation (5\%)},
+  topic = {ML methods for neural data analysis}
 }
 
 
@@ -165,6 +177,7 @@ url={https://openreview.net/forum?id=vbtj05J68r}
   poster = {true},
   preview = {torus.jpeg},
   booktitle = {Computational Systems Neuroscience Conference (COSYNE), selected as an oral presentation (2\%)},
+  topic = {ML methods for neural data analysis}
 }
 
 
@@ -175,14 +188,16 @@ author = {Mitchell Ostrow, and Tony Chen, and Cedegao Zhang, and Hokyung Sung},
 year = {2023},
 poster = {true},
 preview = {cogsci.jpg},
-howpublished = {Philosophy of Deep Learning Conference}
+howpublished = {Philosophy of Deep Learning Conference},
+topic = {Understanding neural systems}
 }
 
 @misc{ibl,
 title = {Investigating the Interplay of Anatomical, Biophysical, and Functional Modularity in Task-Optimized RNNs},
 author = {Mitchell Ostrow, and Hokyung Sung, and Ila Fiete},
 year = {2023},
-howpublished = {IBL U19 Conference}
+howpublished = {IBL U19 Conference},
+topic = {Understanding neural systems}
 }
 
 @misc{MPRNN,
@@ -192,4 +207,5 @@ howpublished = {IBL U19 Conference}
   year= {2022},
   howpublished = {Robotics: Science and Systems (Spotlight Talk)},
   preview = {lstm.png},
+  topic = {Understanding neural systems}
 }
