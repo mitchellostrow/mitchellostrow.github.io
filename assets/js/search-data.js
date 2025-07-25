@@ -80,6 +80,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-submission-agentdsa-dynamical-similarity-analysis-for-neural-controllers-was-accepted-to-the-reinforcement-learning-and-decision-making-conference",
           title: 'Our submission “AgentDSA: Dynamical Similarity Analysis for Neural Controllers” was accepted to the...',
           description: "",
+          section: "News",},{id: "news-dsa-is-featured-as-a-tutorial-in-the-neuromatch-academy-neuroai-course-thanks-to-alex-murphy-and-xaq-pitkow",
+          title: 'DSA is featured as a tutorial in the Neuromatch Academy NeuroAI course! Thanks...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
