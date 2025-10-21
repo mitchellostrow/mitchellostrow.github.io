@@ -83,6 +83,9 @@ ninja.data = [{
           section: "News",},{id: "news-dsa-is-featured-as-a-tutorial-in-the-neuromatch-academy-neuroai-course-thanks-to-alex-murphy-and-xaq-pitkow",
           title: 'DSA is featured as a tutorial in the Neuromatch Academy NeuroAI course! Thanks...',
           description: "",
+          section: "News",},{id: "news-our-new-paper-characterizing-control-between-interacting-subsystems-with-deep-jacobian-estimation-was-accepted-to-neurips-as-a-spotlight-poster",
+          title: 'Our new paper “Characterizing control between interacting subsystems with deep Jacobian Estimation” was...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
