@@ -86,6 +86,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-new-paper-characterizing-control-between-interacting-subsystems-with-deep-jacobian-estimation-was-accepted-to-neurips-as-a-spotlight-poster",
           title: 'Our new paper “Characterizing control between interacting subsystems with deep Jacobian Estimation” was...',
           description: "",
+          section: "News",},{id: "news-our-new-paper-inputdsa-demixing-then-comparing-recurrent-and-externally-driven-dynamics-is-out-on-arxiv-thanks-to-the-fiete-and-rajan-labs-especially-my-co-first-author-ann-huang-for-their-collaborations",
+          title: 'Our new paper “InputDSA: Demixing then Comparing Recurrent and Externally Driven Dynamics” is...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
