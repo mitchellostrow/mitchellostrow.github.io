@@ -89,6 +89,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-new-paper-inputdsa-demixing-then-comparing-recurrent-and-externally-driven-dynamics-is-out-on-arxiv-thanks-to-the-fiete-and-rajan-labs-especially-my-co-first-author-ann-huang-for-their-collaborations",
           title: 'Our new paper “InputDSA: Demixing then Comparing Recurrent and Externally Driven Dynamics” is...',
           description: "",
+          section: "News",},{id: "news-our-paper-inputdsa-demixing-then-comparing-recurrent-and-externally-driven-dynamics-is-accepted-to-iclr",
+          title: 'Our paper “InputDSA: Demixing then Comparing Recurrent and Externally Driven Dynamics” is accepted...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
