@@ -6,7 +6,7 @@ subtitle: <a href='https://bcs.mit.edu'>Computational Neuroscience PhD Candidate
 
 profile:
   align: right
-  image: Ostrow_Mitchellheadshot.jpg
+  image: headshot2026.jpg
   image_cicular: false # crops the image to make it circular
   address: >
 
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a 3rd year PhD student at MIT. I'm interested in bridging systems neuroscience, cognitive science, and deep learning through the lens of dynamical systems theory and machine learning. To that end, I design and use quantitative methods to understand computations performed by both biological and artificial neural networks. I've worked in medicine (as an EMT), experimental neuroscience, computational neuroscience, and artificial intelligence (in industry). 
+I'm a 4th year PhD student at MIT. I'm interested in bridging systems neuroscience, cognitive science, and deep learning through the lens of dynamical systems theory and machine learning. To that end, I design and aply quantitative methods to understand computations performed by both biological and artificial neural networks. I've worked in medicine (as an EMT), experimental neuroscience, computational neuroscience, and artificial intelligence (in industry). 
 
 I also work as a freelance editor, especially for college admission essays and graduate school statements of purpose, but I can edit both technical and non-technical pieces more generally. Feel free to reach out to me at \[last-name\] (at) mit.edu if you're interested. 
 
