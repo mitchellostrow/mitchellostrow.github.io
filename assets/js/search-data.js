@@ -96,7 +96,7 @@ ninja.data = [{
           title: 'I’m giving a talk and a poster at the NeuroMonster conference on my...',
           description: "",
           section: "News",},{id: "news-i-m-attending-the-flatiron-institute-workshop-on-theoretical-neuroscience-and-giving-two-talks-one-research-talk-on-my-new-dsa-work-and-one-tutorial-on-koopman-operator-theory",
-          title: 'I’m attending the Flatiron Institute workshop on theoretical neuroscience and giving two talks:...',
+          title: 'I’m attending the “Flatiron Institute workshop on theoretical neuroscience” and giving two talks:...',
           description: "",
           section: "News",},{id: "news-our-newest-paper-a-metric-for-comparing-complex-systems-by-their-dynamics-is-on-biorxiv",
           title: 'Our newest paper “A metric for comparing complex systems by their dynamics” is...',
