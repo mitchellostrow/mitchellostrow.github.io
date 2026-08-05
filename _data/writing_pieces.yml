@@ -6,3 +6,7 @@
   description: "A commentary on a beautiful paper from my friend Hristos"
   pdf_url: https://www.nature.com/articles/d41586-024-02433-2
 # Add more entries here for each PDF 
+
+- title: "Notes on Koopman Operator Theory"
+  description: "A short note on the Koopman operator, a mathematical tool for analyzing dynamical systems."
+  pdf_url: /assets/pdf/writing/koopman_operator.pdf
